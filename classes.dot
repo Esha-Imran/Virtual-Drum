@@ -1,0 +1,6 @@
+digraph "classes" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{ConfigureStick|cap\luseload : bool\l|finding_color()\lnothing(x)\lprocessing()\ltrack()\l}", shape="record"];
+"1" [label="{VirtualDrum|cap\ldrums : list\lheight : int\lrings : list\luseload : bool\lwidth : int\l|application()\linside_roi(x, y, listd)\l}", shape="record"];
+}
